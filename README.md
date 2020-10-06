@@ -34,9 +34,10 @@ If something's not working, Run `yarn cleanAndroid`, then Run `yarn runAndroid`.
 
 ## Packages used
 
-Axios - Making HTTP requests to fetch or save data
-React-native-elements -for UI elements
-@react-navigation - for navigation and stackcontainer
+1. Axios - Making HTTP requests to fetch or save data
+1. React-native-elements -for UI elements
+1. @react-navigation - for navigation and stackcontainer
+1. dayjs - for formatting date for user-friendly
 
 # Troubleshoot
 

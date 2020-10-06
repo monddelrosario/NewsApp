@@ -90,7 +90,7 @@ const HomeScreen = ({navigation}) => {
   const renderItem = ({item}) => {
     const {urlToImage, title, author, description, publishedAt} = item;
     return (
-      <View style={{paddingStart: 2}} key={keyExtractor}>
+      <View style={{paddingStart: 5}} key={keyExtractor}>
         <NewsCard
           key={item.id}
           ViewNews={() => ViewNews(item)}

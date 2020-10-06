@@ -10,7 +10,7 @@
     "runIos": "react-native run-ios",
     "runAndroid": "react-native run-android",
     "cleanAndroid": "cd ./android && ./gradlew clean",
-    "bundleAndroid": "cd ./android && ./gradlew bundleRelease",
+    "bundleAndroid": "cd ./android && ./gradlew assembleDebug",
     "bundleJs": "npx react-native bundle --dev false --platform android --entry-file index.js --bundle-output ./android/app/src/main/assets/index.android.bundle --assets-dest ./android/app/src/main/res",
     "pod-install": "cd ios && pod install && cd ..",
     "xcode": "xed -b ios",

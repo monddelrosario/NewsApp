@@ -2,6 +2,10 @@
 
 created by: Raymond del Rosario
 
+## Latest android build
+
+Download [Here] (https://drive.google.com/file/d/1vLqxivMFsdasND1foZnwr4so1l5joSha/view?usp=sharing) .then install it.
+
 ## Requirements
 
 1. Node.js

@@ -1,5 +1,7 @@
 # News App
 
+created by: Raymond del Rosario
+
 ## Requirements
 
 1. Node.js
@@ -29,6 +31,12 @@ If something's not working, Run `yarn cleanAndroid`, then Run `yarn runAndroid`.
 1. Run `yarn` or `npm install`
 1. Run `yarn pod-install`
 1. Run `yarn runIos`
+
+## Packages used
+
+Axios - Making HTTP requests to fetch or save data
+React-native-elements -for UI elements
+@react-navigation - for navigation and stackcontainer
 
 # Troubleshoot
 
